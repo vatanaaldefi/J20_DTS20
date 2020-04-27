@@ -3,6 +3,10 @@
   .lesson {
     width: 100%;
   }
+  
+  .lesson2 {
+    width: 100%;
+  }
 
   footer, body {
     text-align: center;
@@ -24,6 +28,8 @@
   .header-right{
     display:none;
   }
+  
+  
 
   .menu-icon{
     display:block;
